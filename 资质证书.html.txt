@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>建筑业企业资质证书</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Microsoft YaHei", sans-serif;
+        }
+        body {
+            padding: 20px;
+            line-height: 1.8;
+            background-color: #fff;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 24px;
+            font-weight: 600;
+        }
+        .info-item {
+            margin: 10px 0;
+            font-size: 16px;
+        }
+        .label {
+            font-weight: 600;
+            display: inline-block;
+            width: 180px;
+        }
+    </style>
+</head>
+<body>
+    <h1>建筑业企业资质证书</h1>
+    <div class="info-item">
+        <span class="label">企业名称：</span>
+        <span>青岛锐尘科技有限公司</span>
+    </div>
+    <div class="info-item">
+        <span class="label">详细地址：</span>
+        <span>青岛市市北区南丰路44号502户</span>
+    </div>
+    <div class="info-item">
+        <span class="label">统一社会信用代码：</span>
+        <span>91370203MA3CEUHXⅩN</span>
+    </div>
+    <div class="info-item">
+        <span class="label">法人代表：</span>
+        <span>王化瑞</span>
+    </div>
+    <div class="info-item">
+        <span class="label">注册资本金：</span>
+        <span>150万元</span>
+    </div>
+    <div class="info-item">
+        <span class="label">经济性质：</span>
+        <span>有限责任公司（自然人投资或控股的法人独资）</span>
+    </div>
+    <div class="info-item">
+        <span class="label">证书编号：</span>
+        <span>D337D57614</span>
+    </div>
+    <div class="info-item">
+        <span class="label">有效期：</span>
+        <span>2030年6月5日</span>
+    </div>
+    <div class="info-item">
+        <span class="label">发证机关：</span>
+        <span>青岛市行政审批服务局</span>
+    </div>
+    <div class="info-item">
+        <span class="label">发证日期：</span>
+        <span>2025年6月5日</span>
+    </div>
+    <div class="info-item">
+        <span class="label">资质范围：</span>
+        <span>二级工程装修资质</span>
+    </div>
+</body>
+</html>
